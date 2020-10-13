@@ -7,6 +7,6 @@ Estudante apaixonado por tecnologia e programação.
 
 Cursando Técnico em Informática na ETEC Pedro Ferreira Alves.
 
-Focado em estudar desenvolvimento web com a Stack: Node.js, React.js e React Native.
+Estudando desenvolvimento web com as tecnologias: Node.js, React.js e React Native.
 
 "A vida é feita de escolhas. Quando você dá um passo para frente, alguma coisa fica para trás."
