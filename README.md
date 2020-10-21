@@ -6,5 +6,3 @@
 Cursando Técnico em Informática na ETEC Pedro Ferreira Alves.
 
 Estudando desenvolvimento web com as tecnologias: Node.js, React.js e React Native.
-
-"A vida é feita de escolhas. Quando você dá um passo à frente, alguma coisa fica para trás."
