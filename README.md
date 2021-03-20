@@ -5,4 +5,4 @@
 
 Cursando Análise e Desenvolvimento de Sistemas na FATEC Arthur de Azevedo.
 
-Estudando desenvolvimento web e mobile com as tecnologias: Node.js, React.js e React Native.
+Aprendendo novas tecnologias diariamente.
