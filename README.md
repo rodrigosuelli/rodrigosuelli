@@ -5,6 +5,6 @@
 
 Dev apaixonado por tecnologia e programação.
 
-Graduado em Análise e Desenvolvimento de Sistemas na FATEC Arthur de Azevedo.
+Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Arthur de Azevedo.
 
 Aprendendo novas tecnologias e evoluindo diariamente.
