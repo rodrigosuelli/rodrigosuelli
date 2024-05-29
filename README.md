@@ -8,10 +8,10 @@ Graduado em Análise e Desenvolvimento de Sistemas pela FATEC Arthur de Azevedo.
 Aprendendo novas tecnologias e evoluindo diariamente.
 
 Tech Stack Atual:
-• Tecnologias Front-end – HTML, CSS, Sass, JavaScript, React.js, Next.js, Vite.js.
-• Tecnologias Back-end – Node.js, Express.js, Typescript.
-• Bancos de Dados – PostgreSQL, Redis, Firebase Firestore, Firebase Authentication.
-• Clouds – Firebase, Render.com, Vercel, Redis Cloud, Oracle Cloud (VMs), Heroku, AWS Beanstalk.
+- Tecnologias Front-end – HTML, CSS, Sass, JavaScript, React.js, Next.js, Vite.js.
+- Tecnologias Back-end – Node.js, Express.js, Typescript.
+- Bancos de Dados – PostgreSQL, Redis, Firebase Firestore, Firebase Authentication.
+- Clouds – Firebase, Render.com, Vercel, Redis Cloud, Oracle Cloud (VMs), Heroku, AWS Beanstalk.
 
 Interessado em aprender:
 Nest.js, Docker, GCP Cloud Run; 
